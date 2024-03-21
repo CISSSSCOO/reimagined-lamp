@@ -1,0 +1,164 @@
+[
+  {
+    "uuid": "65ac8faa-571f-3206-a179-a9550b4bde6a",
+    "displayName": {
+      "insertion": "Francisco__VNZL",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Francisco__VNZL "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "65ac8faa-571f-3206-a179-a9550b4bde6a",
+          "name": {
+            "text": "Francisco__VNZL"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Francisco__VNZL"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "864996ac-5f7e-3768-89df-9a426b678bda",
+    "displayName": {
+      "insertion": "miguel",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell miguel "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "864996ac-5f7e-3768-89df-9a426b678bda",
+          "name": {
+            "text": "miguel"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "miguel"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "48ca0ed9-b5f9-3c14-8851-ab7ec172b0ab",
+    "displayName": {
+      "insertion": "Frannciisscoo",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Frannciisscoo "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "48ca0ed9-b5f9-3c14-8851-ab7ec172b0ab",
+          "name": {
+            "text": "Frannciisscoo"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Frannciisscoo"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "6994abbd-079c-32ac-ae0b-bd5eb1ad354a",
+    "displayName": {
+      "insertion": "afcg1214k",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell afcg1214k "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "6994abbd-079c-32ac-ae0b-bd5eb1ad354a",
+          "name": {
+            "text": "afcg1214k"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "afcg1214k"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "a67fde08-a6d6-3374-b256-bf74f12bdc92",
+    "displayName": {
+      "insertion": "Frannciscooo",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Frannciscooo "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "a67fde08-a6d6-3374-b256-bf74f12bdc92",
+          "name": {
+            "text": "Frannciscooo"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Frannciscooo"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "af1ee57b-fe41-331a-9a86-6263d5cc1088",
+    "displayName": {
+      "insertion": "BhackenovPlays",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell BhackenovPlays "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "af1ee57b-fe41-331a-9a86-6263d5cc1088",
+          "name": {
+            "text": "BhackenovPlays"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "BhackenovPlays"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  }
+]
